@@ -1,22 +1,20 @@
 # Purchase Order Management System - IV Innovations
 
-## How to Run
-1. `cd backend`
-2. `uvicorn app.main:app --reload`
-3. `cd ../frontend`
-4. `python -m http.server 8080`
-5. Open http://localhost:8080/index.html
+**GitHub**: https://github.com/YOUR-USERNAME/PO-Management-System  
+**Video Demo**: [Add your video link here]
 
 ## Features
-- FastAPI + SQLite backend
-- Dynamic "Add Product Row" with jQuery
-- Automatic 5% tax calculation
-- AI "Auto-Description" button
-- Responsive Bootstrap UI
-- Dashboard to view all POs
+- Add & Delete Vendors
+- Add & Delete Products with custom prices
+- Dynamic PO form with multiple rows
+- Real Gemini AI Auto-Description
+- MongoDB logs for AI calls
+- 5% tax auto-calculation
+- Responsive Dashboard with delete buttons
 
-## Database Design
-- Proper Primary & Foreign keys
-- Total calculated in backend (business logic)
+## How to Run
+1. Backend: `uvicorn app.main:app --reload`
+2. Frontend: `python -m http.server 8080`
+3. Open: http://localhost:8080/index.html
 
-Submitted by: Ayush Raj
+Submitted by: Ayush
