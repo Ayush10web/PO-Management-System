@@ -1,7 +1,6 @@
 # Purchase Order Management System - IV Innovations
 
 **GitHub**: https://github.com/YOUR-USERNAME/PO-Management-System  
-**Video Demo**: [Add your video link here]
 
 ## Features
 - Add & Delete Vendors
